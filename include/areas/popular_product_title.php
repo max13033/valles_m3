@@ -1,0 +1,1 @@
+<a href="javascript:void(0);" class="product__title-link arrow-link">Популярные товары</a>

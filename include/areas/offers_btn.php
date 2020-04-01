@@ -1,0 +1,1 @@
+<a href="/catalog/rasprodazha/" class="offer__link long-btn"> Все предложения</a>

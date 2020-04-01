@@ -1,0 +1,1 @@
+<a href="/catalog/rasprodazha/" class="action__title-link arrow-link">Акция</a>

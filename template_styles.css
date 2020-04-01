@@ -1,0 +1,19 @@
+.b-product__picture{
+    height: 198px;
+    width: 198px;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.action__img-wrap{
+    width: 100%;
+}
+.action__items-link{
+    width: 100%;
+}
+.product__slide-link{
+    width: 100%;
+}
+.product__img-wrap{
+    width: 100%;
+}
